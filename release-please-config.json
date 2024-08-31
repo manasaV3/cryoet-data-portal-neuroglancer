@@ -1,4 +1,5 @@
 {
+  "bootstrap-sha": "289f28d75c0bf663b06b8dd966dfb2282fd8ee72",
    "changelog-sections": [
     { "type": "feat", "section": "✨ Features" },
     { "type": "fix", "section": "🐞 Bug Fixes" },
@@ -14,9 +15,8 @@
   ],
   "packages": {
     ".": {
-      "bootstrap-sha": "738249eda933eb8e90201c73384c4b6dee70cc12",
       "changelog-path": "CHANGELOG.md",
-      "release-type": "simple"
+      "release-type": "python"
     }
   }
 }
