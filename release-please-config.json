@@ -14,7 +14,7 @@
   ],
   "packages": {
     ".": {
-      "bootstrap-sha": "e20319dcba9325dc5a9414a4e59dc21e64e254f3",
+      "bootstrap-sha": "738249eda933eb8e90201c73384c4b6dee70cc12",
       "changelog-path": "CHANGELOG.md",
       "release-type": "simple"
     }
