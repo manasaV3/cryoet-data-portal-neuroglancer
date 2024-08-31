@@ -12,9 +12,9 @@
     { "type": "build", "section": "🛠️ Build System" },
     { "type": "ci", "section": "⚙ Continuous Integration" }
   ],
-  "bootstrap-sha": "f5db89015be40a5245689138530a5ff75ff4d952",
   "packages": {
     ".": {
+      "bootstrap-sha": "f5db89015be40a5245689138530a5ff75ff4d952",
       "changelog-path": "CHANGELOG.md",
       "release-type": "simple"
     }
